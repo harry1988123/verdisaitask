@@ -1,3 +1,6 @@
+![alt text](https://github.com/harry1988123/verdisaitask/blob/master/1.PNG)
+![alt text](https://github.com/harry1988123/verdisaitask/blob/master/2.PNG)
+![alt text](https://github.com/harry1988123/verdisaitask/blob/master/3.PNG)
 # Verdisaitask
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.6.
